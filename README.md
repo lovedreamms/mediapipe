@@ -1,4 +1,4 @@
 datageneration.py根据文件夹dataset中的照片生成手势点的坐标(21个点)
 生成文件dataset/data.csv 数据是42维的坐标信息，label是照片上一级文件名
 modeltest.py训练model并检验正确率
-mian.py使用模型进行手势识别
+mian.py使用模型进行手势识别包含相机识别
